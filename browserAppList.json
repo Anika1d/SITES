@@ -1,0 +1,242 @@
+[
+  {
+    "packageId": "com.google.android.googlequicksearchbox",
+    "label": "Google"
+  },
+  {
+    "packageId": "com.yandex.browser.alpha",
+    "label": "Браузер Альфа"
+  },
+  {
+    "packageId": "com.kiwibrowser.browser",
+    "label": "Kiwi Browser"
+  },
+  {
+    "packageId": "com.ecosia.android",
+    "label": "Ecosia"
+  },
+  {
+    "packageId": "ru.yandex.searchplugin.beta",
+    "label": "Яндекс Старт Бета"
+  },
+  {
+    "packageId": "org.adblockplus.browser",
+    "label": "Adblock Browser"
+  },
+  {
+    "packageId": "com.aospstudio.tvsearch",
+    "label": "Quick Search TV"
+  },
+  {
+    "packageId": "com.chrome.beta",
+    "label": "Chrome Beta"
+  },
+  {
+    "packageId": "com.chrome.canary",
+    "label": "Chrome Canary"
+  },
+  {
+    "packageId": "com.max.browser",
+    "label": "Max Browser"
+  },
+  {
+    "packageId": "com.brave.browser",
+    "label": "Brave"
+  },
+  {
+    "packageId": "com.opera.mini.native",
+    "label": "Opera Mini"
+  },
+  {
+    "packageId": "com.sec.android.app.sbrowser.beta",
+    "label": "Бета-версия Samsung Internet"
+  },
+  {
+    "packageId": "com.microsoft.emmx",
+    "label": "Edge"
+  },
+  {
+    "packageId": "net.decentr.browser",
+    "label": "Decentr"
+  },
+  {
+    "packageId": "com.google.android.apps.searchlite",
+    "label": "Google Go"
+  },
+  {
+    "packageId": "com.jio.web",
+    "label": "JioSphere"
+  },
+  {
+    "packageId": "org.mozilla.fenix",
+    "label": "Firefox Nightly"
+  },
+  {
+    "packageId": "com.yandex.searchapp",
+    "label": "Яндекс"
+  },
+  {
+    "packageId": "com.mx.browser",
+    "label": "Maxthon"
+  },
+  {
+    "packageId": "reactivephone.msearch",
+    "label": "Поиск"
+  },
+  {
+    "packageId": "com.opera.browser",
+    "label": "Opera"
+  },
+  {
+    "packageId": "com.xbrowser.play",
+    "label": "XБраузер"
+  },
+  {
+    "packageId": "com.yandex.browser.beta",
+    "label": "Браузер Бета"
+  },
+  {
+    "packageId": "com.yandex.browser.lite",
+    "label": "Яндекс Браузер"
+  },
+  {
+    "packageId": "com.android.chrome",
+    "label": "Chrome"
+  },
+  {
+    "packageId": "com.opera.gx",
+    "label": "Opera GX"
+  },
+  {
+    "packageId": "com.microsoft.emmx.canary",
+    "label": "Edge Canary"
+  },
+  {
+    "packageId": "com.pumabrowser.pumabrowser",
+    "label": "Puma Browser"
+  },
+  {
+    "packageId": "com.talpa.hibrowser",
+    "label": "Hola Browser"
+  },
+  {
+    "packageId": "com.transsion.phoenix",
+    "label": "Phoenix"
+  },
+  {
+    "packageId": "com.aloha.browser",
+    "label": "Aloha"
+  },
+  {
+    "packageId": "com.sec.android.app.sbrowser",
+    "label": "Samsung Internet"
+  },
+  {
+    "packageId": "ru.yandex.searchplugin",
+    "label": "Яндекс Старт"
+  },
+  {
+    "packageId": "com.microsoft.emmx.beta",
+    "label": "Edge Beta"
+  },
+  {
+    "packageId": "com.bharat.browser",
+    "label": "Super Browser"
+  },
+  {
+    "packageId": "com.hsv.freeadblockerbrowser",
+    "label": "Free Adblocker Browser"
+  },
+  {
+    "packageId": "ru.mail.browser",
+    "label": "Браузер Atom"
+  },
+  {
+    "packageId": "com.pandora.browser",
+    "label": "Pando"
+  },
+  {
+    "packageId": "com.heytap.browser",
+    "label": "Internet"
+  },
+  {
+    "packageId": "com.brave.browser_nightly",
+    "label": "Brave - Nightly"
+  },
+  {
+    "packageId": "com.qmamu.browser",
+    "label": "Qmamu"
+  },
+  {
+    "packageId": "com.vivaldi.browser",
+    "label": "Vivaldi"
+  },
+  {
+    "packageId": "jp.co.fenrir.android.sleipnir",
+    "label": "Sleipnir"
+  },
+  {
+    "packageId": "org.mozilla.firefox_beta",
+    "label": "Firefox Beta"
+  },
+  {
+    "packageId": "mobi.mgeek.TunnyBrowser",
+    "label": "Dolphin"
+  },
+  {
+    "packageId": "com.browser.tssomas",
+    "label": "Carbon: Super Fast Browser"
+  },
+  {
+    "packageId": "com.yandex.browser",
+    "label": "Браузер"
+  },
+  {
+    "packageId": "com.duckduckgo.mobile.android",
+    "label": "DuckDuckGo"
+  },
+  {
+    "packageId": "hot.fiery.browser",
+    "label": "Браузер Fiery"
+  },
+  {
+    "packageId": "com.naver.whale",
+    "label": "Whale"
+  },
+  {
+    "packageId": "com.you.browser",
+    "label": "You.com"
+  },
+  {
+    "packageId": "com.yahoo.mobile.client.android.search",
+    "label": "Yahoo Search"
+  },
+  {
+    "packageId": "com.mi.globalbrowser.mini",
+    "label": "Mint Браузер"
+  },
+  {
+    "packageId": "com.microsoft.emmx.dev",
+    "label": "Edge Dev"
+  },
+  {
+    "packageId": "com.opera.browser.beta",
+    "label": "Opera beta"
+  },
+  {
+    "packageId": "com.chrome.dev",
+    "label": "Chrome Dev"
+  },
+  {
+    "packageId": "com.fulldive.mobile",
+    "label": "Wize Browser"
+  },
+  {
+    "packageId": "com.yandex.searchapp.beta",
+    "label": "Яндекс Бета"
+  },
+  {
+    "packageId": "com.brave.browser_beta",
+    "label": "Brave - Beta"
+  }
+]
